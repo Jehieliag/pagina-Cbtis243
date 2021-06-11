@@ -1,0 +1,108 @@
+body{
+	background-color: #F6EDBB;
+}
+
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: Helvetica Neue;
+}
+
+div#titulo{
+	width: 100%;
+	margin-top: 100px;
+}
+
+p#header{
+	text-align: center;
+	font-size: 2.5em;
+	color: black;
+}
+p#subheader{
+	text-align: center;
+	margin-top: 20px;
+	font-size: 2em;
+	color: red;
+}
+header{
+	margin: 100px auto;
+	width: 800px;
+	height: 50px;
+	background-color: #F7E172;
+}
+p.texto{
+	text-align: center;
+	font-size: 1.2em
+}
+div.contenedor{
+	width: 160px;
+	height: 50px;
+	float: left;
+}
+header.cuadro{
+	margin-top: 8px auto;
+	width: 800px;
+	height: 500px;
+	background-color: #BBF6D2;
+	
+
+}
+p#joe{
+	font-size: 1.7em;
+	color: black;
+	text-align: center;
+	padding-top: 5px;
+	
+}
+p.back{
+	margin-top: 20px;
+	font-size: 1.2em;
+
+}
+p.stay{
+	
+	font-size: 2em;
+	text-align: center;
+
+}
+header.sg{
+	width: 800px;
+	height: 100px;
+	background-color:  #C8FFE5;
+
+}
+p.jm{
+	margin-top: 20px;
+	font-size: 1.2em;
+	text-align: center;
+}
+header.dino{
+	margin: 0px auto;
+	width: 200px;
+	height: 800px;
+	float: left;
+	padding-right: 30px;
+	margin-left: 0px;
+	background-color: #FFD99A;
+}
+p.golzi{
+	font-size: 1.2;
+	text-align: center;
+	margin-top: 10px;
+
+}
+div#rm{
+	width: 200;
+	height: 10px;
+}
+
+header.lauv{
+	margin: 0px auto;
+	width: 200px;
+	height: 800px;
+	float: right;
+	padding-right: 30px;
+	margin-left: 0px;
+	background-color: #FFD99A;
+}
+
